@@ -2,9 +2,8 @@
 
 <hr>
 <p align="center">
-  <img src="<p align="center">
   <img src="https://waftengine.org/public/blog/1B5EE4D5D773F8A-RR.jpg"/>
-</p>"/>
+
 </p>
 <hr>
 
