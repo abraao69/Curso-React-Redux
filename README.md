@@ -1,5 +1,13 @@
 # Curso React-Redux
 
+<hr>
+<p align="center">
+  <img src="<p align="center">
+  <img src="https://waftengine.org/public/blog/1B5EE4D5D773F8A-RR.jpg"/>
+</p>"/>
+</p>
+<hr>
+
 Introdução ao React Redux
 React Redux é a camada oficial de bindings do React UI para Redux . Ele permite que seus componentes React leiam dados de uma loja Redux e enviem ações para a loja para atualizar o estado.
 
